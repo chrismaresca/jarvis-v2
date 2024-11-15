@@ -4,10 +4,12 @@ This is a basic real-time client for the OpenAI Realtime API. This can act as a 
 
 ## Setup
 
-1. [Install uv](https://docs.astral.sh/uv/), a modern package manager for Python.
-2. Setup environment `cp .env.sample .env` add your `OPENAI_API_KEY` and `ANTHROPIC_API_KEY`
-3. Install dependencies `uv sync`
-4. See usage below
+1. Clone this repo `git clone https://github.com/chrismaresca/jarvis-v1.git`
+2. Navigate to the repo `cd jarvis-v1`
+3. [Install uv](https://docs.astral.sh/uv/), a modern package manager for Python.
+4. Setup environment `cp .env.sample .env` add your `OPENAI_API_KEY` and `ANTHROPIC_API_KEY`
+5. Install dependencies `uv sync`
+6. See usage below
 
 ## Usage
 
