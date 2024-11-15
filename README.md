@@ -1,6 +1,6 @@
-# 🤖 Basic Real-Time Client (Jarvis v1)
+# 🤖 Jarvis v2
 
-This is a basic real-time client for the OpenAI Realtime API. This can act as a starting point for building more complex clients.
+More elaborate version of [Jarvis v1](https://github.com/chrismaresca/jarvis-v1). Let's build something more interesting.
 
 ## Setup
 
@@ -28,7 +28,6 @@ or if you want to pass in multiple prompts, do so like this:
 ```bash
 uv run src/main.py --prompts "What is the weather in NYC? | What is the weather in Tokyo?"
 ```
-
 
 ## Jarvis's Toolbox
 
