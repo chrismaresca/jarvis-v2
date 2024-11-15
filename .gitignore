@@ -1,0 +1,46 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+# Environment and configuration files
+.env
+!.env.sample
+*.log
+*.jsonl
+
+# Audio and media files
+*.wav
+*.mp3
+*.ogg
+
+# Dependencies and package management
+node_modules/
+.uv/
+.python-version
+.pytest_cache/
+
+# Testing and coverage
+.coverage
+htmlcov/
+.tox/
+
+# Local development
+*.local
+.local/
+
+
+# Old files
+old/
